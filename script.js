@@ -1,5 +1,7 @@
 'use strict';
 
+// TODO: REFACTOR
+
 ///////////////////////////////////////
 // Modal window
 
